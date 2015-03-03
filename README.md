@@ -6,6 +6,6 @@ please add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Gwen Franck](link to github profile here)  |
-| Accountable  | ADD  |
+| Accountable  | Soohyun Pae, Kelsey Wiens  |
 | Consulted | Add yourselves here |
 | Informed | Add yourselves here |
